@@ -1,4 +1,4 @@
-# Tradutor-CodigoMorse
+# Codificador-CodigoMorse
 
 Projeto realizado em Junho/2022 como trabalho final na disciplina de Estrutura de Dados.
 
